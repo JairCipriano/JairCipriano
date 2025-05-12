@@ -1,6 +1,6 @@
 # Jair Cipriano 👨🏽‍💻 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Back-End`**
 
 Olá! Sou Jair Cipriano, 24 anos, natural do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFOR e estou em busca de oportunidades para aplicar minhas habilidades em desenvolvimento e contribuir para projetos inovadores.
 
